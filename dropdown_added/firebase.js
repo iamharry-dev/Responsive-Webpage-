@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBo6stmR8IiPMZTAiZi-W1Wkg21HY213nQ",
+    apiKey: "Paste your firebase APIKEY here",
     authDomain: "fraction-app.firebaseapp.com",
     databaseURL: "https://fraction-app-default-rtdb.firebaseio.com",
     projectId: "fraction-app",
